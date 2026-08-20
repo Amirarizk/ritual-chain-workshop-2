@@ -1,5 +1,5 @@
 # Ritual Predict
-
+Forked with ❤️ by: [ elkhawaga20222  ]
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
 
 Create a market like _"Will ETH/USD be at least $4,000 when this market resolves?"_, stake native
